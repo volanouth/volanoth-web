@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/evening-web/static/css/main.bee0d824.chunk.css",
+    "main.js": "/evening-web/static/js/main.1fc2663e.chunk.js",
+    "main.js.map": "/evening-web/static/js/main.1fc2663e.chunk.js.map",
+    "runtime-main.js": "/evening-web/static/js/runtime-main.a40b36bb.js",
+    "runtime-main.js.map": "/evening-web/static/js/runtime-main.a40b36bb.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/evening-web/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aba941a5.chunk.js": "/evening-web/static/js/2.aba941a5.chunk.js",
+    "static/js/2.aba941a5.chunk.js.map": "/evening-web/static/js/2.aba941a5.chunk.js.map",
+    "index.html": "/evening-web/index.html",
+    "precache-manifest.45e75352fb7ecc6e513329193015162c.js": "/evening-web/precache-manifest.45e75352fb7ecc6e513329193015162c.js",
+    "service-worker.js": "/evening-web/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/evening-web/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.bee0d824.chunk.css.map": "/evening-web/static/css/main.bee0d824.chunk.css.map",
+    "static/js/2.aba941a5.chunk.js.LICENSE.txt": "/evening-web/static/js/2.aba941a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a40b36bb.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aba941a5.chunk.js",
+    "static/css/main.bee0d824.chunk.css",
+    "static/js/main.1fc2663e.chunk.js"
+  ]
+}
